@@ -1,13 +1,17 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# cambodia
+# britmort
 
-This repository contains the R code for modelling and creating graphs
-for the paper
+This repository contains the R code for the modelling and graphs of
+Section 5 of the paper
 
 > Zhang JL, Bryant J. Forthcoming. Fully Bayesian benchmarking of small
 > area estimation models.
+
+In Section 5, we estimate age-sex-area-specific mortality rates that are
+consistent with life expectancies for eight large regions in England and
+Wales.
 
 The model and graphs in the paper can be reproduced by running the code
 in file “run\_all.R”, which in turn runs code in the “src” folder.
