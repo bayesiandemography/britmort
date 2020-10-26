@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 This repository contains the R code for the modelling and graphs of Section 5 of the paper
 
-> Zhang JL, Bryant J. Forthcoming. Fully Bayesian benchmarking of small area estimation models. *Journal of Official Statistics*
+> Zhang JL, Bryant J. 2020. Fully Bayesian benchmarking of small area estimation models. *Journal of Official Statistics*. 36(1): 197-223
 
 In Section 5, we estimate age-sex-area-specific mortality rates that are consistent with life expectancies for eight large regions in England and Wales.
 
